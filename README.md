@@ -23,5 +23,6 @@ The results of the analysis were as follows:
 
 
 
-## Summary 
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+## Summary
+
+Looking at the percent of 5-star reviews for these products, it would seem that there is not positive bias resulting from participation in the paid review program given that both paid and unpaid reviews result in about 44% of reviews being 5-stars. I would recommend a further analysis of the distribution of stars for those both in and out of the program to determine if there is a positive bias skewing results away from 1 or 2 star reviews. 
